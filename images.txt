@@ -1,1 +1,1 @@
-linuxcc/openvpn-web-gui-server:v2.4
+hive
