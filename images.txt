@@ -1,1 +1,2 @@
-bde2020/hive
+bde2020/hive-metastore-postgresql:latest
+bde2020/hive:latest
