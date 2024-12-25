@@ -1,2 +1,10 @@
-bitnami/hive-metastore:3.1.2
-bitnami/hive-server2:3.1.2
+ bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java
+ bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java
+ bde2020/hadoop-resourcemanager:2.0.0-hadoop3.2.1-java
+ bde2020/hadoop-nodemanager:2.0.0-hadoop3.2.1-java
+ bde2020/hadoop-historyserver:2.0.0-hadoop3.2.1-java
+ bde2020/hive:2.3.2-postgresql-metastor
+ bde2020/hive:2.3.2-postgresql-metastor
+ bde2020/hive-metastore-postgresql:2.3.
+ bde2020/spark-master:3.0.2-hadoop3.
+ bde2020/spark-worker:3.0.2-hadoop3.
