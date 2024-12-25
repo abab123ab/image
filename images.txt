@@ -1,2 +1,2 @@
-bde2020/hive-metastore-postgresql:latest
-bde2020/hive:latest
+bitnami/hive-metastore:3.1.2
+bitnami/hive-server2:3.1.2
